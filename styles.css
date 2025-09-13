@@ -1,0 +1,106 @@
+h1 {
+    color: var(--Off-white, #F5F5F5);
+    font-family: "Roboto Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+body{
+    display: flex;
+    align-items:flex-start;
+    flex-direction: column;
+    justify-content: center;
+    align-self: stretch;
+    background: var(--Black-2, #131313);
+}
+
+/*Styling paintball event card with CSS from Figma plugin 
+.eventcard{
+    display: flex;
+    width: 558px;
+    padding: 32px 24px;
+    align-items: flex-start;
+    border-radius: 10px;
+    background: var(--Off-white, #F5F5F5);
+}
+
+.date-and-event-wrapper{
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    background: var(--Off-white, #F5F5F5);
+}
+
+.date-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right:32px;
+}
+
+.month{
+    color: var(--Dark-green-1, #1F3219);
+    font-family: "Roboto Mono", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin:0;
+}
+
+.days{
+    color: var(--Dark-green-1, #1F3219);
+    font-family: "Roboto Mono", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin:0;
+    
+}
+
+.event-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex: 1 0 0;
+}
+
+.event-name{
+    white-space: nowrap;
+    color: var(--Dark-green-1, #1F3219);
+    font-family: "Roboto Mono", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top:0px;
+}
+
+.field-name{
+    align-self: stretch;
+    color: var(--Gray-1, #444);
+    font-family: "Roboto Mono", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin:0;
+}
+
+.city-and-state{
+    align-self: stretch;
+    color: var(--Gray-1, #444);
+    font-family: "Roboto Mono", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin:0;
+}
+
+*/

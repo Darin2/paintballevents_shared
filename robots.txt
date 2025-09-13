@@ -1,0 +1,15 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /dbconn.inc.php
+Disallow: /function_printHeader.php
+Disallow: /php/
+
+Allow: /index.php
+Allow: /events/
+Allow: /submit_event.php
+Allow: /about.php
+
+
+Sitemap: https://paintballevents.net/sitemap.php
